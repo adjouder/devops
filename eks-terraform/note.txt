@@ -1,0 +1,18 @@
+User: arn:aws:iam::451037715048:user/Whiz_User_152500.50008708
+Service: iam
+Action: GetRolePolicy
+On resource(s): role
+Context: because no identity-based policy allows the iam:GetRolePolicy action
+
+493345033300
+
+
+subnets :
+subnet-70c2da3d (a)
+subnet-0d97c252 (b)
+
+
+arn:aws:iam::597619315366:user/aliya
+eu-west-3
+AKIAYWJHDCKTJ62527F7
+1P1v/QzDxP7PS8XZoeXSSZCxJDN6i6/CACqUiRjS
