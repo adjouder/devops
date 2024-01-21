@@ -14,5 +14,3 @@ subnet-0d97c252 (b)
 
 arn:aws:iam::597619315366:user/aliya
 eu-west-3
-AKIAYWJHDCKTJ62527F7
-1P1v/QzDxP7PS8XZoeXSSZCxJDN6i6/CACqUiRjS
