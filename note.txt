@@ -12,5 +12,5 @@ subnet-70c2da3d (a)
 subnet-0d97c252 (b)
 
 
-arn:aws:iam::597619315366:user/aliya
+arn:aws:iam::xxxxxxxx:user/aliya
 eu-west-3
